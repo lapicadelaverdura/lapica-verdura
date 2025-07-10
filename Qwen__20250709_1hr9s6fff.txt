@@ -1,0 +1,11 @@
+lapica-verdura/
+├── public/
+│   └── favicon.ico (opcional)
+├── src/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
